@@ -1,7 +1,7 @@
 # IT-Security-RSS-feeds
 
-| Organisation                                 | RSS feed Link                                                     | Website link                                                                               | Type of content             | Date added          |
-|:---------------------------------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:----------------------------|:--------------------|
+| Organisation                                 | RSS feed Link                                                | Website link                                                                   | Type of content             | Date added          |
+|:---------------------------------------------|:-------------------------------------------------------------|:-------------------------------------------------------------------------------|:----------------------------|:--------------------|
 | 0ffset                                                   | https://www.0ffset.net/blog/feed/                                           | https://www.0ffset.net/                                                                                | Security Researcher         | 2025-08-21 00:00:00 |
 | 0patch Blog                                              | https://blog.0patch.com/feeds/posts/default                                 | https://blog.0patch.com/                                                                               | Vendors                     | 2025-08-21 00:00:00 |
 | 0x0v1                                                    | https://www.0x0v1.com/rss                                                   | https://www.0x0v1.com/                                                                                 | Security Researcher         | 2025-08-21 00:00:00 |

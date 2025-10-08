@@ -1,5 +1,7 @@
 # IT-Security-RSS-feeds
 
+List of RSS Feeds for IT security / CTI to collect information from primary sources
+
 | Organisation                                 | RSS feed Link                                                | Type of content             | Date added          |
 |:---------------------------------------------|:-------------------------------------------------------------|:----------------------------|:--------------------|
 | [0ffset](https://www.0ffset.net/)                        | https://www.0ffset.net/blog/feed/                                           | Security Researcher         | 2025-08-21 00:00:00 |
